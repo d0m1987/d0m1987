@@ -5,6 +5,9 @@
 - 🤖 I really like to automate things, e.g. web automation
 - 🖥 Currently I'm trying to get more into machine learning
 
+### Current ToDo
+Following the great MIT course ["Introduction to Deep Learning"](https://www.youtube.com/watch?v=5tvmMX8r_OM). If you are into Machine Learning and haven't seen it yet, you should go check it out!
+
 ### Connect with me:
 
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/1d1e8885c5031874b32f4e480e371ce2b1c24144/svg/globe.svg" />][website]
