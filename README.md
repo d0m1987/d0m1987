@@ -1,7 +1,7 @@
 ### Hi there, I'm Domi 👋
 
 ## I'm a hobby programmer and totally interested in IT 🤓
-- 🐍 Since Python 3.2 I'm totally into Python programming.
+- 🐍 Since Python 3.2 I'm totally into Python programming
 - 🤖 I really like to automate things, e.g. web automation
 - 🖥 Currently I'm trying to get more into machine learning
 
@@ -17,6 +17,7 @@ Following the great MIT course ["Introduction to Deep Learning"](https://www.you
 - [RealPython](https://realpython.com/): great articles and a great community! I can also really recommend listening to the [RealPython Podcast](https://realpython.com/podcasts/rpp/)
 - [PyCoders Weekly](https://pycoders.com/): Weekly curated list of Python articles and interesting repos. I'm happy every week when I receive it!
 - [Python Weekly](https://www.pythonweekly.com/): Another great newsletter besides PyCoders Weekly. Some of the articles overlap with PyCoders Weekly BUT it's nevertheless totally worth subscribing!
+- [Vitor Freitas blog post series "A Complete Beginner's Guide to Django"](https://simpleisbetterthancomplex.com/series/2017/09/04/a-complete-beginners-guide-to-django-part-1.html): It's a bit outdated (you need to fix some code problems with newer Django versions) but it is by far the best introduction tutorial I've seen so far for Django. If you'd like to start using Django, check it out!
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
