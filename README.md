@@ -1,7 +1,7 @@
 ### Hi there, I'm Domi 👋
 
 ## I'm a hobby programmer and totally interested in IT 🤓
-- 🐍 Since some years I'm totally into Python programming
+- 🐍 Since Python 3.2 I'm totally into Python programming.
 - 🤖 I really like to automate things, e.g. web automation
 - 🖥 Currently I'm trying to get more into machine learning
 
@@ -27,6 +27,10 @@ Following the great MIT course ["Introduction to Deep Learning"](https://www.you
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
+### Newsletter, Blogs and Websites I can recommend
+- (RealPython)[https://realpython.com/]: great articles and a great community! I can also really recommend listening to the (RealPython Podcast)[https://realpython.com/podcasts/rpp/]
+- (PyCoders Weekly)[https://pycoders.com/]: Weekly curated list of Python articles and interesting repos. I'm happy every week when I receive it!
+- (Python Weekly)[https://www.pythonweekly.com/]: Another great newsletter besides PyCoders Weekly. Some of the articles overlap with PyCoders Weekly BUT it's nevertheless totally worth subscribing!
 
 <br/>
 <br/>
